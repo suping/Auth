@@ -1,0 +1,4 @@
+Auth
+====
+
+example component Auth
